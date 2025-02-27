@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+  main.cpp
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(181,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(182,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(186,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(187,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(188,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(189,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(211,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\an3\PG\rezerva\OpenGLProject-Projects1\OpenGLProject-Projects1\main.cpp(212,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  OpenGLProject-Projects1.vcxproj -> C:\an3\PG\rezerva\OpenGLProject-Projects1\x64\Debug\OpenGLProject-Projects1.exe
