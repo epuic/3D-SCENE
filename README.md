@@ -1,6 +1,6 @@
 #  **3D Scene** 🌐
 
-A dynamic **3D scene** created using **OpenGL** and **C++**, where users can explore and interact with a 3D environment. You can walk around the scene using the **W, A, S, D** keys, observe moving objects, and experience realistic shadow effects in real-time.
+A dynamic **3D scene** created using **OpenGL** and **C++**, where users can explore and interact with a 3D environment. You can walk around the scene using the **W, A, S, D** keys, observe moving objects and experience realistic shadow effects in real-time.
 
 ![scena](/scena.png)
 
